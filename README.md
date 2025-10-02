@@ -1,3 +1,4 @@
+<img width="300" height="100" alt="1001468822" src="https://github.com/user-attachments/assets/7e9132f2-e749-4782-a089-c6da65a52fe8" />
 # CCN Early Morning News
 
 This project is a CNN-inspired demo news page called **CCN Early Morning News**.  
